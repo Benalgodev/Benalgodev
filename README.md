@@ -66,3 +66,5 @@
 - **Python**: 15% ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 - **HTML**: 15% ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - **CSS**: 10% ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+- ![snake gif](https://github.com/benalgodev/benalgodev/blob/output/github-snake.svg)
