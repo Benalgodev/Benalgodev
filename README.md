@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Bonjour, Moi c'est Bénédiction Mulemba  
 💻 je me définis comme un **Problem solver**. Passionné d'algorithmie j'adore apporter des solutions intelligentes et efficaces grace à mon code. Mon objectif est de transformer des concepts complexes en solutions élégantes et fonctionnelles, tout en adoptant les meilleures pratiques du secteur.
+Programmeur profondément humain: Le code au service de l'humain et pas l'inverse. 
 
 ---
 
