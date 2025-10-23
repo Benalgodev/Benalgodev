@@ -1,6 +1,6 @@
 # 💫 About Me:
-👋 Bonjour, je suis Bénédiction Mulemba  
-💻 **Développeur Fullstack accompli**, passionné par la création d’applications web et mobiles performantes. Mon objectif est de transformer des concepts complexes en solutions élégantes et fonctionnelles, tout en adoptant les meilleures pratiques du secteur.
+👋 Bonjour, Moi c'est Bénédiction Mulemba  
+💻 je me définis comme un **Problem solver**. Passionné d'algorithmie j'adore apporter des solutions intelligentes et efficaces grace à mon code. Mon objectif est de transformer des concepts complexes en solutions élégantes et fonctionnelles, tout en adoptant les meilleures pratiques du secteur.
 
 ---
 
@@ -8,7 +8,7 @@
 - 🚀 **Projets réalisés** : Créateur de solutions innovantes ayant impacté des utilisateurs réels.  
 - 🏆 **Expertise** : Maîtrise des architectures web modernes et des workflows collaboratifs CI/CD.  
 - 🌱 **Engagement** : Toujours en quête d’excellence et d’apprentissage continu.  
-- 🎓 **Formation** : Architecte des systèmes d’information, avec une expérience pratique et professionnelle.
+- 🎓 **Formation** : Développement Web et Architecture des systèmes d’information, avec une expérience pratique et professionnelle.
 
 ---
 
@@ -58,13 +58,6 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
 
-### 📊 Mes langages préférés :
-- **TypeScript**: 35% ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- **JavaScript**: 25% ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- **Python**: 15% ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-- **HTML**: 15% ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- **CSS**: 10% ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - ![snake gif](https://github.com/benalgodev/benalgodev/blob/output/github-snake.svg)
