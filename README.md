@@ -17,7 +17,7 @@ Chef de projet EDI & facturation électronique. Je fais circuler les factures en
 
 **Outils** : Python · SQL · XML/XSLT/Schematron · EDIFACT · SAP IDoc · Java · TypeScript · GitHub Actions · Docker
 
-Me contacter : LinkedIn — Bénédiction MULEMBA
+Me contacter : [LinkedIn](https://www.linkedin.com/in/b%C3%A9n%C3%A9diction-mulemba-b056a1276/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benalgodev/benalgodev/output/github-snake-dark.svg">
